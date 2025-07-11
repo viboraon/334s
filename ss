@@ -487,8 +487,8 @@ end
 
 Draggable(i1)
 
-lbl("by MyWorld owns the script")
-lbl("discord.gg/QMy5f6DrbH")
+lbl("By EvilDoll Join Today")
+lbl("https://discord.gg/UjZyH3cBpQ")
 
 local allowshiftlock=nil
 local ctrltp=nil
