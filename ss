@@ -133,7 +133,7 @@ local guiTheme={
 	buttonsTextColor=c3(0.8, 0.05, 0.05),
 	labelsTextColor=c3(0.560784,0.560784,0.560784),
 	listTopColor=c3(0,0,0),
-	listBottomColor=c3(0.0705882,0.0705882,0.0705882)
+	listBottomColor=c3(0.04, 0.04, 0.04)
 }
 
 local accessorylimbs={
